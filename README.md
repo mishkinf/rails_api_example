@@ -1,4 +1,4 @@
-== Rails API Example
+# Rails API Example
 A simple RESTful Rails API example
 
 ## Setup Instructions
